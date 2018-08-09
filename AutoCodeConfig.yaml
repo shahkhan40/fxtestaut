@@ -171,4 +171,4 @@ generators:
   severity: "Major"
   database: null
   inactive: false
-  matches: null
+  matches: []
